@@ -1,0 +1,213 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Eliasim\\Desktop\\Landings\\COBLandingBlazor\\COBLandingBlazor\\Client\\bin\\Debug\\net7.0\\wwwroot\\_framework\\blazor.webassembly.js",
+      "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js"
+    },
+    {
+      "Id": "C:\\Users\\Eliasim\\Desktop\\Landings\\COBLandingBlazor\\COBLandingBlazor\\Client\\obj\\Debug\\net7.0\\build-gz\\HwDW+Y7J.gz",
+      "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js.gz"
+    },
+    {
+      "Id": "C:\\Users\\Eliasim\\Desktop\\Landings\\COBLandingBlazor\\COBLandingBlazor\\Client\\obj\\Debug\\net7.0\\scopedcss\\bundle\\COBLandingBlazor.Client.styles.css",
+      "PackagePath": "staticwebassets\\COBLandingBlazor.Client.styles.css"
+    },
+    {
+      "Id": "C:\\Users\\Eliasim\\Desktop\\Landings\\COBLandingBlazor\\COBLandingBlazor\\Client\\obj\\Debug\\net7.0\\service-worker-assets.js",
+      "PackagePath": "staticwebassets\\service-worker-assets.js"
+    },
+    {
+      "Id": "C:\\Users\\Eliasim\\Desktop\\Landings\\COBLandingBlazor\\COBLandingBlazor\\Client\\obj\\Debug\\net7.0\\service-worker\\service-worker.published.js",
+      "PackagePath": "staticwebassets\\service-worker.js"
+    },
+    {
+      "Id": "C:\\Users\\Eliasim\\Desktop\\Landings\\COBLandingBlazor\\COBLandingBlazor\\Client\\wwwroot\\css\\app.css",
+      "PackagePath": "staticwebassets\\css\\app.css"
+    },
+    {
+      "Id": "C:\\Users\\Eliasim\\Desktop\\Landings\\COBLandingBlazor\\COBLandingBlazor\\Client\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Eliasim\\Desktop\\Landings\\COBLandingBlazor\\COBLandingBlazor\\Client\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Eliasim\\Desktop\\Landings\\COBLandingBlazor\\COBLandingBlazor\\Client\\wwwroot\\css\\open-iconic\\FONT-LICENSE",
+      "PackagePath": "staticwebassets\\css\\open-iconic"
+    },
+    {
+      "Id": "C:\\Users\\Eliasim\\Desktop\\Landings\\COBLandingBlazor\\COBLandingBlazor\\Client\\wwwroot\\css\\open-iconic\\ICON-LICENSE",
+      "PackagePath": "staticwebassets\\css\\open-iconic"
+    },
+    {
+      "Id": "C:\\Users\\Eliasim\\Desktop\\Landings\\COBLandingBlazor\\COBLandingBlazor\\Client\\wwwroot\\css\\open-iconic\\README.md",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\README.md"
+    },
+    {
+      "Id": "C:\\Users\\Eliasim\\Desktop\\Landings\\COBLandingBlazor\\COBLandingBlazor\\Client\\wwwroot\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Eliasim\\Desktop\\Landings\\COBLandingBlazor\\COBLandingBlazor\\Client\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.eot",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.eot"
+    },
+    {
+      "Id": "C:\\Users\\Eliasim\\Desktop\\Landings\\COBLandingBlazor\\COBLandingBlazor\\Client\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.otf",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.otf"
+    },
+    {
+      "Id": "C:\\Users\\Eliasim\\Desktop\\Landings\\COBLandingBlazor\\COBLandingBlazor\\Client\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.svg",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.svg"
+    },
+    {
+      "Id": "C:\\Users\\Eliasim\\Desktop\\Landings\\COBLandingBlazor\\COBLandingBlazor\\Client\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.ttf",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Eliasim\\Desktop\\Landings\\COBLandingBlazor\\COBLandingBlazor\\Client\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.woff",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.woff"
+    },
+    {
+      "Id": "C:\\Users\\Eliasim\\Desktop\\Landings\\COBLandingBlazor\\COBLandingBlazor\\Client\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "C:\\Users\\Eliasim\\Desktop\\Landings\\COBLandingBlazor\\COBLandingBlazor\\Client\\wwwroot\\icon-192.png",
+      "PackagePath": "staticwebassets\\icon-192.png"
+    },
+    {
+      "Id": "C:\\Users\\Eliasim\\Desktop\\Landings\\COBLandingBlazor\\COBLandingBlazor\\Client\\wwwroot\\icon-512.png",
+      "PackagePath": "staticwebassets\\icon-512.png"
+    },
+    {
+      "Id": "C:\\Users\\Eliasim\\Desktop\\Landings\\COBLandingBlazor\\COBLandingBlazor\\Client\\wwwroot\\img\\Edificios.jpg",
+      "PackagePath": "staticwebassets\\img\\Edificios.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Eliasim\\Desktop\\Landings\\COBLandingBlazor\\COBLandingBlazor\\Client\\wwwroot\\img\\Edificios2.jpg",
+      "PackagePath": "staticwebassets\\img\\Edificios2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Eliasim\\Desktop\\Landings\\COBLandingBlazor\\COBLandingBlazor\\Client\\wwwroot\\img\\Edificios3.jpg",
+      "PackagePath": "staticwebassets\\img\\Edificios3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Eliasim\\Desktop\\Landings\\COBLandingBlazor\\COBLandingBlazor\\Client\\wwwroot\\img\\LogoCOBnuevoFRONT.png",
+      "PackagePath": "staticwebassets\\img\\LogoCOBnuevoFRONT.png"
+    },
+    {
+      "Id": "C:\\Users\\Eliasim\\Desktop\\Landings\\COBLandingBlazor\\COBLandingBlazor\\Client\\wwwroot\\img\\LogoDemo.png",
+      "PackagePath": "staticwebassets\\img\\LogoDemo.png"
+    },
+    {
+      "Id": "C:\\Users\\Eliasim\\Desktop\\Landings\\COBLandingBlazor\\COBLandingBlazor\\Client\\wwwroot\\img\\LogoPrueba.png",
+      "PackagePath": "staticwebassets\\img\\LogoPrueba.png"
+    },
+    {
+      "Id": "C:\\Users\\Eliasim\\Desktop\\Landings\\COBLandingBlazor\\COBLandingBlazor\\Client\\wwwroot\\img\\LogoPrueba2.png",
+      "PackagePath": "staticwebassets\\img\\LogoPrueba2.png"
+    },
+    {
+      "Id": "C:\\Users\\Eliasim\\Desktop\\Landings\\COBLandingBlazor\\COBLandingBlazor\\Client\\wwwroot\\img\\Reportes.png",
+      "PackagePath": "staticwebassets\\img\\Reportes.png"
+    },
+    {
+      "Id": "C:\\Users\\Eliasim\\Desktop\\Landings\\COBLandingBlazor\\COBLandingBlazor\\Client\\wwwroot\\img\\Seguimiento.png",
+      "PackagePath": "staticwebassets\\img\\Seguimiento.png"
+    },
+    {
+      "Id": "C:\\Users\\Eliasim\\Desktop\\Landings\\COBLandingBlazor\\COBLandingBlazor\\Client\\wwwroot\\img\\banner-bk.jpg",
+      "PackagePath": "staticwebassets\\img\\banner-bk.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Eliasim\\Desktop\\Landings\\COBLandingBlazor\\COBLandingBlazor\\Client\\wwwroot\\img\\client-1.png",
+      "PackagePath": "staticwebassets\\img\\client-1.png"
+    },
+    {
+      "Id": "C:\\Users\\Eliasim\\Desktop\\Landings\\COBLandingBlazor\\COBLandingBlazor\\Client\\wwwroot\\img\\client-2.png",
+      "PackagePath": "staticwebassets\\img\\client-2.png"
+    },
+    {
+      "Id": "C:\\Users\\Eliasim\\Desktop\\Landings\\COBLandingBlazor\\COBLandingBlazor\\Client\\wwwroot\\img\\client-3.png",
+      "PackagePath": "staticwebassets\\img\\client-3.png"
+    },
+    {
+      "Id": "C:\\Users\\Eliasim\\Desktop\\Landings\\COBLandingBlazor\\COBLandingBlazor\\Client\\wwwroot\\img\\client-4.png",
+      "PackagePath": "staticwebassets\\img\\client-4.png"
+    },
+    {
+      "Id": "C:\\Users\\Eliasim\\Desktop\\Landings\\COBLandingBlazor\\COBLandingBlazor\\Client\\wwwroot\\img\\client-5.png",
+      "PackagePath": "staticwebassets\\img\\client-5.png"
+    },
+    {
+      "Id": "C:\\Users\\Eliasim\\Desktop\\Landings\\COBLandingBlazor\\COBLandingBlazor\\Client\\wwwroot\\img\\client-6.png",
+      "PackagePath": "staticwebassets\\img\\client-6.png"
+    },
+    {
+      "Id": "C:\\Users\\Eliasim\\Desktop\\Landings\\COBLandingBlazor\\COBLandingBlazor\\Client\\wwwroot\\img\\contact-bk.jpg",
+      "PackagePath": "staticwebassets\\img\\contact-bk.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Eliasim\\Desktop\\Landings\\COBLandingBlazor\\COBLandingBlazor\\Client\\wwwroot\\img\\favicon.png",
+      "PackagePath": "staticwebassets\\img\\favicon.png"
+    },
+    {
+      "Id": "C:\\Users\\Eliasim\\Desktop\\Landings\\COBLandingBlazor\\COBLandingBlazor\\Client\\wwwroot\\img\\feature-1.png",
+      "PackagePath": "staticwebassets\\img\\feature-1.png"
+    },
+    {
+      "Id": "C:\\Users\\Eliasim\\Desktop\\Landings\\COBLandingBlazor\\COBLandingBlazor\\Client\\wwwroot\\img\\feature-2.png",
+      "PackagePath": "staticwebassets\\img\\feature-2.png"
+    },
+    {
+      "Id": "C:\\Users\\Eliasim\\Desktop\\Landings\\COBLandingBlazor\\COBLandingBlazor\\Client\\wwwroot\\img\\imagen.jpg",
+      "PackagePath": "staticwebassets\\img\\imagen.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Eliasim\\Desktop\\Landings\\COBLandingBlazor\\COBLandingBlazor\\Client\\wwwroot\\img\\imagenDesc.jpg",
+      "PackagePath": "staticwebassets\\img\\imagenDesc.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Eliasim\\Desktop\\Landings\\COBLandingBlazor\\COBLandingBlazor\\Client\\wwwroot\\img\\logo.png",
+      "PackagePath": "staticwebassets\\img\\logo.png"
+    },
+    {
+      "Id": "C:\\Users\\Eliasim\\Desktop\\Landings\\COBLandingBlazor\\COBLandingBlazor\\Client\\wwwroot\\img\\smart-protect-1.jpg",
+      "PackagePath": "staticwebassets\\img\\smart-protect-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Eliasim\\Desktop\\Landings\\COBLandingBlazor\\COBLandingBlazor\\Client\\wwwroot\\img\\smart-protect-2.jpg",
+      "PackagePath": "staticwebassets\\img\\smart-protect-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Eliasim\\Desktop\\Landings\\COBLandingBlazor\\COBLandingBlazor\\Client\\wwwroot\\img\\smart-protect-3.jpg",
+      "PackagePath": "staticwebassets\\img\\smart-protect-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Eliasim\\Desktop\\Landings\\COBLandingBlazor\\COBLandingBlazor\\Client\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\Eliasim\\Desktop\\Landings\\COBLandingBlazor\\COBLandingBlazor\\Client\\wwwroot\\manifest.json",
+      "PackagePath": "staticwebassets\\manifest.json"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.COBLandingBlazor.Client.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.COBLandingBlazor.Client.props",
+      "PackagePath": "build\\COBLandingBlazor.Client.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.COBLandingBlazor.Client.props",
+      "PackagePath": "buildMultiTargeting\\COBLandingBlazor.Client.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.COBLandingBlazor.Client.props",
+      "PackagePath": "buildTransitive\\COBLandingBlazor.Client.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
