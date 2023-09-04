@@ -18,6 +18,7 @@ namespace COBLandingBlazor.Client.Services
         public async Task<bool> Email(EmailBody email)
         {
             var result = await _httpClient.PostAsJsonAsync<EmailBody>("api/Mail", email);
+            var result2 = await _httpClient.PostAsJsonAsync<EmailBody>("api/Mail", email);
 
             return result != null;
         }

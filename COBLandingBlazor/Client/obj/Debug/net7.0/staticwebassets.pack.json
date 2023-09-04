@@ -73,6 +73,10 @@
       "PackagePath": "staticwebassets\\favicon.png"
     },
     {
+      "Id": "C:\\Users\\Eliasim\\Desktop\\Landings\\COBLandingBlazor\\COBLandingBlazor\\Client\\wwwroot\\faviconOLD.png",
+      "PackagePath": "staticwebassets\\faviconOLD.png"
+    },
+    {
       "Id": "C:\\Users\\Eliasim\\Desktop\\Landings\\COBLandingBlazor\\COBLandingBlazor\\Client\\wwwroot\\icon-192.png",
       "PackagePath": "staticwebassets\\icon-192.png"
     },

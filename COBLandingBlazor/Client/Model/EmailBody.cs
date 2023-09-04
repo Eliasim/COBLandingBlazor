@@ -8,6 +8,8 @@ namespace COBLandingBlazor.Client.Model
         public string Email { get; set; }
         [Required(ErrorMessage = "Ingresa tu Nombre")]
         public string Name { get; set; }
+        [Required(ErrorMessage = "Ingresa tus Apellidos")]
+        public string LastName { get; set; }
         [Required(ErrorMessage = "Ingresa tu Teléfono")]
         public string Phone { get; set; }
         public string Text { get; set; } = "";

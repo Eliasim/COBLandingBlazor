@@ -1,24 +1,24 @@
 ﻿@page "/"
 @inject IJSRuntime JSRuntime
-<PageTitle>Index</PageTitle>
+<PageTitle>Inicio</PageTitle>
 
 <div class="overflow-x-hidden" style="position: relative;">
     <nav id="NavBar" class="d-flex justify-content-between align-items-center navPosition">
         <img src="img/LogoCOBnuevoFRONT.png" class="ml-4 d-block" style="height: 3rem;">
         <div class="d-flex mr-4">
-            <label onclick="document.getElementById('carouselExampleAutoplaying').scrollIntoView({block:'end',behavior:'smooth'})"><h5 class="text-white ml-3 hidden noMargin">Inicio</h5></label>
-            <label onclick="document.getElementById('Descripcion').scrollIntoView({behavior:'smooth'})"><h5 class="text-white ml-3 hidden noMargin">Descripcion</h5></label>
-            <label onclick="document.getElementById('Caracteristicas').scrollIntoView({behavior:'smooth'})"><h5 class="text-white ml-3 hidden noMargin">Características</h5></label>
-            <label onclick="document.getElementById('Funcion').scrollIntoView({behavior:'smooth'})"><h5 class="text-white ml-3 hidden noMargin">Funcionamiento</h5></label>
-            <label onclick="document.getElementById('Beneficios').scrollIntoView({behavior:'smooth'})"><h5 class="text-white ml-3 hidden noMargin">Beneficios</h5></label>
-            <label onclick="document.getElementById('Galeria').scrollIntoView({behavior:'smooth'})"><h5 class="text-white ml-3 hidden noMargin">Galería</h5></label>
-            <label onclick="document.getElementById('Contacto').scrollIntoView({behavior:'smooth'})"><h5 class="text-white ml-3 hidden noMargin">Contacto</h5></label>
-            <label><h5 class="text-white ml-3 noMargin">Sistema COB</h5></label>
+            <label class="mt-1" onclick="document.getElementById('carouselExampleAutoplaying').scrollIntoView({block:'end',behavior:'smooth'})"><h5 class="text-white ml-3 hidden noMargin">Inicio</h5></label>
+            <label class="mt-1" onclick="document.getElementById('Descripcion').scrollIntoView({behavior:'smooth'})"><h5 class="text-white ml-3 hidden noMargin">Descripcion</h5></label>
+            <label class="mt-1" onclick="document.getElementById('Caracteristicas').scrollIntoView({behavior:'smooth'})"><h5 class="text-white ml-3 hidden noMargin">Características</h5></label>
+            <label class="mt-1" onclick="document.getElementById('Funcion').scrollIntoView({behavior:'smooth'})"><h5 class="text-white ml-3 hidden noMargin">Funcionamiento</h5></label>
+            <label class="mt-1" onclick="document.getElementById('Beneficios').scrollIntoView({behavior:'smooth'})"><h5 class="text-white ml-3 hidden noMargin">Beneficios</h5></label>
+            <label class="mt-1" onclick="document.getElementById('Galeria').scrollIntoView({behavior:'smooth'})"><h5 class="text-white ml-3 hidden noMargin">Galería</h5></label>
+            <label class="mt-1" onclick="document.getElementById('Contacto').scrollIntoView({behavior:'smooth'})"><h5 class="text-white ml-3 hidden noMargin">Contacto</h5></label>
+            <a href="https://app.cob123.com/"><h5 class="text-white ml-3 btn btn-info noMargin">LOGIN</h5></a>
         </div>
     </nav>
     <div id="carouselExampleAutoplaying" class="carousel slide carousel-fade" data-bs-ride="carousel">
         <div class="carousel-inner" style="position: relative;">
-            <h1 data-aos="fade" data-aos-easing="linear" data-aos-duration="1000" data-aos-once="true" class="display-3 text-center text-white fw-semibold my-5" style="position: absolute; top: 2rem; right: 0; left: 0; z-index: 10;">
+            <h1 data-aos="fade" data-aos-easing="linear" data-aos-duration="1000" data-aos-once="true" class="display-3 text-center text-white fw-semibold my-5 hiddeTexth1" style="position: absolute; top: 2rem; right: 0; left: 0; z-index: 10;">
                 APLICATIVO COB
             </h1>
             <div class="carousel-indicators">
@@ -30,43 +30,37 @@
                 <h1 class="display-3 text-center text-white fw-semibold my-5 positionClass hiddeTexth1 position">
                     Gestiona Eficientemente tu Obra Blanca.
                 </h1>
-                <h2 class="display-3 text-center text-white fw-semibold my-5 positionClass hiddeTexth2 position">
-                    Gestiona Eficientemente tu Obra Blanca.
-                </h2>
             </div>
             <div class="carousel-item justify-content-center" data-bs-interval="5000">
                 <img src="img/Edificios2.jpg" class="d-block w-100" alt="Interior2">
                 <h1 class="display-3 text-center text-white fw-semibold my-5 positionClass hiddeTexth1 position">
                     La mejor herramienta para el control de la obra blanca
                 </h1>
-                <h2 class="display-3 text-center text-white fw-semibold my-5 positionClass hiddeTexth2 position">
-                    La mejor herramienta para el control de la obra blanca
-                </h2>
             </div>
         </div>
         <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleAutoplaying" data-bs-slide="prev" style="background-color: black;">
           <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-          <span>Anterior</span>
+            <span class="hiddeTexth1">Anterior</span>
         </button>
         <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleAutoplaying" data-bs-slide="next" style="background-color: black;">
-            <span>Siguiente</span>
+            <span class="hiddeTexth1">Siguiente</span>
             <span class="carousel-control-next-icon" aria-hidden="true"></span>
         </button>
       </div>
 
     <!-- Descripcion -->
     <div id="Descripcion" class="container my-5 py-2">
-        <div class="col d-flex justify-content-center">
-            <div data-aos="fade-right" data-aos-delay="200" data-aos-duration="1000" data-aos-once="true" class="col-md-4 text-center mx-5 py-4 mt-5 px-0 aos-init aos-animate">
-                <h2 class="text-center font-weight-bold d-block mb-5">DESCRIPCIÓN</h2>
+        <h2 class="text-center font-weight-bold d-block mb-5">DESCRIPCIÓN</h2>
+        <div class="col d-flex flex-md-row flex-column justify-content-center">
+            <div data-aos="fade-right" data-aos-delay="200" data-aos-duration="1000" data-aos-once="true" class="col-md-4 text-center py-4 mt-5 px-0 aos-init aos-animate">
                     <h4 class="text-justify">COB es una gran herramienta indispensable destinada a los profesionales de la construcción: 
                         <br><br>Dirección de Obra y/o Dirección de Proyecto, para el Cierre de Obra Blanca. La aplicación permite ahorrar tiempo y dinero al realizar el cierre de obra de una forma rápida e informada.
                         
                         Es fácil de operar y tiene la posibilidad de personalizar para satisfacer las necesidades específicas de cada usuario.
                     </h4>
             </div>
-            <div data-aos="fade-left" data-aos-delay="200" data-aos-duration="1000" data-aos-once="true" class="text-center py-4 mt-5">
-                <img src="img/imagenDesc.jpg" alt="Take a look inside" class="mx-auto mt-5 pt-5 d-block" style="width: 80%;">
+            <div data-aos="fade-left" data-aos-delay="200" data-aos-duration="1000" data-aos-once="true" class="text-center py-4">
+                <img src="img/imagenDesc.jpg" alt="Take a look inside" class="mx-auto pt-5 d-block" style="width: 80%;">
             </div>
         </div>
     </div>
@@ -206,33 +200,40 @@
                 <div class="col-md-6">
                     <EditForm Model="@Form">
                         <DataAnnotationsValidator />
-                    	<div class="row">
-	                        <div class="form-group col-md-6">
-	                            <label class="text-white" for="emailsjs_name">Nombre*</label>
+                        <div class="row">
+                            <div class="form-group col-md-6">
+                                <label class="text-white" for="emailsjs_name">Nombre*</label>
                                 <input @bind-value="Form.Name" type="text" class="form-control" name="emailsjs_name" id="emailsjs_name">
                                 <ValidationMessage For="@(() => Form.Name)"></ValidationMessage>
-	                        </div>
-	                        <div class="form-group col-md-6">
-	                            <label class="text-white" for="emailjs_email">Correo*</label>
+                            </div>
+                            <div class="form-group col-md-6">
+                                <label class="text-white" for="emailjs_lastname">Apellidos*</label>
+                                <input @bind-value="Form.LastName" type="text" class="form-control" name="emailsjs_lastname" id="emailsjs_lastname">
+                                <ValidationMessage For="@(() => Form.LastName)"></ValidationMessage>
+                            </div>
+                        </div>
+                        <div class="row">
+                            <div class="form-group col-md-6">
+                                <label class="text-white" for="emailjs_email">Correo*</label>
                                 <input @bind-value="Form.Email" type="email" class="form-control" name="emailjs_email" id="emailjs_email">
                                 <ValidationMessage For="@(() => Form.Email)"></ValidationMessage>
-	                        </div>
-	                    </div>
-                    	<div class="row">
-	                        <div class="form-group col-md-6">
+                            </div>
+                            <div class="form-group col-md-6">
                                 <label class="text-white" for="emailjs_phone">Teléfono*</label>
-                                <input @bind-value="Form.Phone" type="number" class="form-control" name="emailjs_phone" id="emailjs_phone">
+                                <input @bind-value="Form.Phone" type="text" class="form-control" name="emailjs_phone" id="emailjs_phone">
                                 <ValidationMessage For="@(() => Form.Phone)"></ValidationMessage>
                             </div>
-	                        <div class="form-group col-md-6">
-	                            <label class="text-white" for="emailjs_company">Empresa</label>
+                        </div>
+                        <div class="row">
+                            <div class="form-group">
+                                <label class="text-white" for="emailjs_company">Empresa</label>
                                 <input @bind-value="Form.Company" type="text" class="form-control" name="emailjs_company" id="emailjs_company">
-	                        </div>
-	                    </div>
-	                    <div class="form-group">
-	                        <label class="text-white" for="emailjs_message">Mensaje</label>
-	                        <textarea @bind="Form.Text" class="form-control" rows="3" type="text" name="emailjs_message" id="emailjs_message"></textarea>
-	                    </div>
+                            </div>
+                        </div>
+                        <div class="form-group">
+                            <label class="text-white" for="emailjs_message">Mensaje</label>
+                            <textarea @bind="Form.Text" class="form-control borderTop" rows="3" type="text" name="emailjs_message" id="emailjs_message"></textarea>
+                        </div>
                         
                         <!-- Input Ocultado -->
                         <div class="field" style="display: none;">
@@ -264,6 +265,6 @@
     </div>
 
     <!-- Boton Flotante -->
-    <a @onclick="ActivateDemoButton" class="scaleMobile iconToRight" style="width: 12rem; position: fixed; top: 5rem; right: 2rem; z-index: 10;"><img src="img/LogoDemo.png"></a>
+    <a @onclick="ActivateDemoButton" class="scaleMobile" style="width: 12rem; position: fixed; top: 3.3rem; right: 0.5rem; z-index: 10;"><img src="img/LogoDemo.png"></a>
     
 </div>

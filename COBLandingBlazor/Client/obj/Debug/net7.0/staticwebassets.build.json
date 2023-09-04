@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "J8g5y7TtvF+VF8U4HSbjWdHiqWfWG7CrEu79R8n8dIo=",
+  "Hash": "RSGtK64gPnKXK6GdiDnfUBEI+tV3eDnoaK4zK2uGO6U=",
   "Source": "COBLandingBlazor.Client",
   "BasePath": "/",
   "Mode": "Root",
@@ -7478,6 +7478,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon.png"
+    },
+    {
+      "Identity": "C:\\Users\\Eliasim\\Desktop\\Landings\\COBLandingBlazor\\COBLandingBlazor\\Client\\wwwroot\\faviconOLD.png",
+      "SourceId": "COBLandingBlazor.Client",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Eliasim\\Desktop\\Landings\\COBLandingBlazor\\COBLandingBlazor\\Client\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "faviconOLD.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\faviconOLD.png"
     },
     {
       "Identity": "C:\\Users\\Eliasim\\Desktop\\Landings\\COBLandingBlazor\\COBLandingBlazor\\Client\\wwwroot\\icon-192.png",

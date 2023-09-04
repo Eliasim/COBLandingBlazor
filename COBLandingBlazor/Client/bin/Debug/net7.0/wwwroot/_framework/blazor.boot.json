@@ -205,14 +205,14 @@
       "netstandard.dll": "sha256-OYYuPT3JUknj4LdYIa58zF7kDB3tCnLzjCSuhEjtKXM=",
       "System.Private.CoreLib.dll": "sha256-EVS7zPxPV\/41g2mzPwdXtwiigWxI\/SeAHme1IgyD6tc=",
       "COBLandingBlazor.Shared.dll": "sha256-cofC\/hAr\/cYbvcvOQ6z\/5BKuRm8vcgkoXwhMcFSpvxw=",
-      "COBLandingBlazor.Client.dll": "sha256-yR4LTQdHUGm+yeYSIIav05WTo91rEHW1XQru2zhiiMA="
+      "COBLandingBlazor.Client.dll": "sha256-nfXeTeB2AeWa2JSD0we7ugWWrkTE1jYafFneNFWOl8w="
     },
     "extensions": null,
     "lazyAssembly": null,
     "libraryInitializers": null,
     "pdb": {
       "COBLandingBlazor.Shared.pdb": "sha256-jR4JVYG33cKwg\/5kC4aiSfSqJr2vbrATZl8mmBrRXI0=",
-      "COBLandingBlazor.Client.pdb": "sha256-SdZAXCQucyl4YratAbDpQJ83dW2c33A67Ubdn+TuqxA="
+      "COBLandingBlazor.Client.pdb": "sha256-mYqdZlrupqo3YvOn4NVAUsKc9zEbqJEvMZ0w2ZlffJM="
     },
     "runtime": {
       "dotnet.7.0.5.kckbg6s177.js": "sha256-codB25EodaFEP43MDCfMBuKXU4LqurUKnQrpoMIFnPs=",
